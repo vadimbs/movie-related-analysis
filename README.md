@@ -1,4 +1,4 @@
-## -dsc-mod-1-project-v2-1-online
+## Movie related analysis
 
 ### Next questions will be answered:
 
@@ -9,7 +9,7 @@
 
 ### Files:
 1. ETL.ipynb - extract, perform EDA, cleaning and loading data into sql database
-2. student.ipynb - main file
+2. notebook.ipynb - main file
 3. presentation.pdf - quick non-technical presentation
 4. movie.sqlite - DB with cleaned data 
 5. zippedData - folder with movie-related data
